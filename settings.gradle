@@ -1,0 +1,3 @@
+include ':module_java'
+include ':app'
+rootProject.name = "ARouterPro"
